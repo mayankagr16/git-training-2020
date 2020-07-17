@@ -10,5 +10,13 @@ Trainers :
 4. Vinit Kadam
 5. Abhishek Surve
 
-mayank agr
-SDE media.net
+
+
+# Introductions
+
+## Binoy Chitale
+
+Hi, I'm Binoy. I'm a Web Dev in the Header Bidder team.
+
+Mayank Agrawal .I m a SDE in AutoOpt-3
+
